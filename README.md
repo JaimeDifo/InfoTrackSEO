@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Creation the InfoTrack SEO
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Functionalities
+
+Adding SEO record.
+![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/10f8b92f-8a58-4b00-ad3d-2dc4071f5b72)
+
 
 ## Available Scripts
 
