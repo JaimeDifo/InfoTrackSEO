@@ -1,0 +1,51 @@
+/* Edit.css */
+
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px; 
+    background-color: #D0E7D2; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  }
+  
+
+  .main-title3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #001524; 
+    margin-bottom: 20px; 
+  }
+  
+  .form-field {
+    margin-bottom: 20px; 
+  }
+  
+  .label-font2 {
+    font-size: 18px; 
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  select {
+    width: 100%;
+    padding: 10px; 
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .button-5 {
+    background-color: #001524;
+    color: #fff; 
+    font-size: 18px; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+  }
+  
+  .button-5:hover {
+    background-color: #4CAF50; 
+  }
+  
