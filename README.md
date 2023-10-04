@@ -8,14 +8,13 @@ Adding SEO record.
 ![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/22959b81-789d-4d8b-87e9-e70ccd0134ce)
 
 Searching through records.
-![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/5c795cfe-c0b0-4063-83ef-68c7e7daf7a1)
+![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/996abdc8-c951-4625-921f-d1deac32103d)
 
 Viewing History.
-![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/afbb2792-44af-411c-8ee4-c0844a6fe786)
+![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/5123b62f-6099-4501-83fe-b7a2d1135113)
 
 Editing SEO records.
-![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/637eab38-e480-44e2-8081-4cc2c10d0bf7)
-
+![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/69af6121-76b9-4335-a189-97af20b15a8a)
 
 ## Available Scripts
 
