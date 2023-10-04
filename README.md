@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Functionalities
 
 Adding SEO record.
-![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/10f8b92f-8a58-4b00-ad3d-2dc4071f5b72)
+![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/22959b81-789d-4d8b-87e9-e70ccd0134ce)
 
 Searching through records.
 ![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/5c795cfe-c0b0-4063-83ef-68c7e7daf7a1)
