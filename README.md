@@ -7,6 +7,15 @@ Functionalities
 Adding SEO record.
 ![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/10f8b92f-8a58-4b00-ad3d-2dc4071f5b72)
 
+Searching through records.
+![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/5c795cfe-c0b0-4063-83ef-68c7e7daf7a1)
+
+Viewing History.
+![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/afbb2792-44af-411c-8ee4-c0844a6fe786)
+
+Editing SEO records.
+![image](https://github.com/JaimeDifo/InfoTrackSEO/assets/77880449/637eab38-e480-44e2-8081-4cc2c10d0bf7)
+
 
 ## Available Scripts
 
